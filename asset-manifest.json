@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/invitation/static/css/main.4bcc0670.css",
+    "main.js": "/invitation/static/js/main.c7506f92.js",
+    "static/media/met3.jpg": "/invitation/static/media/met3.d36a4e4671ab5e1cddd6.jpg",
+    "static/media/manoj1.png": "/invitation/static/media/manoj1.2a544b1c1aecce7f3876.png",
+    "static/media/ap.png": "/invitation/static/media/ap.4367eaa137a3e8c04a46.png",
+    "static/media/slider-1-1600x900.jpg": "/invitation/static/media/slider-1-1600x900.6d49bf4d73364cfeb9ae.jpg",
+    "static/media/met4.jpg": "/invitation/static/media/met4.a9842627cd78affb248c.jpg",
+    "static/media/met5.jpg": "/invitation/static/media/met5.8df30649427447ad97fc.jpg",
+    "static/media/mana2.jpg": "/invitation/static/media/mana2.8cd90ea7b1c46bda3895.jpg",
+    "static/media/counter-1-1600x600.jpg": "/invitation/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
+    "static/media/w22.png": "/invitation/static/media/w22.a93129e79ba00100cc9b.png",
+    "static/media/brideback.jpg": "/invitation/static/media/brideback.e80a60bee54895ac18ce.jpg",
+    "static/media/a123.png": "/invitation/static/media/a123.0681ac0cd97ebb17bf7b.png",
+    "static/media/logo-white.png": "/invitation/static/media/logo-white.e01794a8082b680a9c4f.png",
+    "static/media/webzed-font-1.svg": "/invitation/static/media/webzed-font-1.b1a44af6e0b9f35cbc65.svg",
+    "static/media/Background_Circle.png": "/invitation/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
+    "static/media/w.png": "/invitation/static/media/w.72b5a2b1ff23e143df62.png",
+    "static/media/webzed-font-1.eot": "/invitation/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
+    "static/media/webzed-font-1.ttf": "/invitation/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
+    "static/media/webzed-font-1.woff": "/invitation/static/media/webzed-font-1.d1595007862c0851fa30.woff",
+    "index.html": "/invitation/index.html",
+    "main.4bcc0670.css.map": "/invitation/static/css/main.4bcc0670.css.map",
+    "main.c7506f92.js.map": "/invitation/static/js/main.c7506f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bcc0670.css",
+    "static/js/main.c7506f92.js"
+  ]
+}
