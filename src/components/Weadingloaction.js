@@ -20,10 +20,10 @@ const Weadingloaction = () => {
                             <p>Wednesday, December 11th, 2019</p>
 							<p>Sri Krishna Lodge</p>
                             <p><i className="icon icon-email-plane"></i></p>
-                            <p>Gantar, Memari, Purba Burdwan, West Bengal</p>
+                            <p>Sri Kari Subhakari Convention,BANK COLONY, Kothapeta, Andhra Pradesh 533223</p>
                             <p>
 							<div className="map-responsive">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8499.493135514864!2d88.12450762641483!3d23.1994848894548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8e02d95791d4ac14!2sSri%20Krishna%20Lodge!5e1!3m2!1sen!2sin!4v1569311071805!5m2!1sen!2sin" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen=""></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3821.2349418475073!2d81.8918964!3d16.7151252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37ebd04b10ab47%3A0x845475345f3eb719!2sSri%20Kari%20Subhakari%20Convention!5e0!3m2!1sen!2sin!4v1700195665646!5m2!1sen!2sin" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen=""></iframe>
                             </div>
 							</p>
 
