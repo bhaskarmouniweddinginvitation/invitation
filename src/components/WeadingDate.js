@@ -11,9 +11,9 @@ const WeadingDate = () => {
                     <div className="slider-content">
 
                         <img className="sindur-dan" src={sindurdan} alt="Sindur Dan"/>
-                        <h5 className="date">11th December 2019</h5>
+                        <h5 className="date">09th December 2023</h5>
                         <h3 className="pre-title">Save The Date</h3>
-                        <h1 className="title">Manoj   <img className="sindur-dan" src={hand} alt="Sindur Dan"/> Iva</h1>
+                        <h1 className="title">Charan   <img className="sindur-dan" src={hand} alt="Sindur Dan"/> Jyothi</h1>
 
                     </div>
 			</div>

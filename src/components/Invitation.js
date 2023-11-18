@@ -22,9 +22,9 @@ const Invitation = () => {
     backgroundRepeat: "no-repeat"}}  alt="groom" className="img-responsive" />
                                 </div>
                                 <div className="desc-groom">
-                                    <h3>Manoj Mukherjee</h3>
-                                    <h5>S/O Subal Mukherjee</h5>
-                                    <h5>Mamata Mukherjee</h5>
+                                    <h3>Charan teja Boddani</h3>
+                                    <h5>S/O Srinivas Boddani</h5>
+                                    <h5>Jayasri Boddani </h5>
                                 </div>
                             </div>
                             <p className="center-text heartp">
@@ -37,9 +37,9 @@ const Invitation = () => {
                                     <img src={bride} alt="bride" className="img-responsive" />
                                 </div>
                                 <div className="desc-bride">
-                                    <h3>Iva Chatterjee</h3>
-                                    <h5>D/O Prabir Chatterjee</h5>
-                                    <h5>Iti Chatterjee</h5>
+                                    <h3>Karuna Jyothi Chittimenu</h3>
+                                    <h5>D/O Nageswara Rao Chittimenu</h5>
+                                    <h5>Nagalakshmi Chittimenu</h5>
                                 </div>
                             </div>
                         </div>
