@@ -27,7 +27,7 @@ const WeadingDetails = () => {
                                         <span className="date">May 22, 2023</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>.........?.</p>
+                                        <p>when i first met you, I thought that all the God's Promises in my life combined together and came in the form of a person</p>
                                     </div>
                                 </div>
                             </li>
@@ -36,10 +36,10 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h3 className="timeline-title">Engagement</h3>
-                                        <span className="date"><i className="icon icon-date"></i>December 30, 2023</span>
+                                        <span className="date"><i className="icon icon-date"></i>July 21, 2023</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>It's our engagement time........?</p>
+                                        <p>It's our engagement time,He gave you to me,to show his eternal LOVE on me...</p>
                                     </div>
                                 </div>
                             </li>
@@ -47,11 +47,11 @@ const WeadingDetails = () => {
                                 <div className="timeline-badge" style={{backgroundImage: `url(${img3})`}}></div>
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
-                                        <h3 className="timeline-title">In A Relationship</h3>
-                                        <span className="date">May 16, 2019</span>
+                                        <h3 className="timeline-title">Promises</h3>
+                                        <span className="date">July 21, 2023</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>.............?.</p>
+                                        <p>As lord jesus, sacrificed his life to save his church, in the same way charan promised to fight with the entire world to protect his wife Jyothi</p>
                                     </div>
                                 </div>
                             </li>
