@@ -82,8 +82,8 @@
     background-repeat: no-repeat;
     position: relative;
     color: #fff;
-    width: 160px;
-    height: 160px;
+    width: 210px;
+    height: 210px;
     line-height: 50px;
     font-size: 1.4em;
     text-align: center;
@@ -159,7 +159,7 @@
       border-left-width: 0;
       border-right-width: 15px;
       left: -15px;
-      right: auto;
+      right: -15px;
     }
   
     ul.timeline > li > .timeline-panel:after {

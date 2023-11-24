@@ -7,11 +7,11 @@ const CountDown = () => {
     const [minutes, setMinutes] = useState(0);
     const [seconds, setSeconds] = useState(0);
     useEffect(() => {
-        const countDownDate = new Date("Dec 09, 2023 10:00:00").getTime();
+        const countDownDate = new Date("Dec 09, 2023 11:00:00").getTime();
         const x = setInterval(() => {
 
             // Get today's date and time
-            const now = new Date().getTime();
+            const now = new Date().getTime();   
 
             // Find the distance between now and the count down date
             const distance = countDownDate - now;

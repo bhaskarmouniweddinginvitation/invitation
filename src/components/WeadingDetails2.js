@@ -27,7 +27,7 @@ const WeadingDetails = () => {
                                         <span className="date">May 22, 2023</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>when i first met you, I thought that all the God's Promises in my life combined together and came in the form of a person</p>
+                                        <p>when i first met you, I thought that all the God's Promises in my life combined together and came in the form of a person He gave you to me,to show his eternal LOVE on me...</p>
                                     </div>
                                 </div>
                             </li>
@@ -39,7 +39,7 @@ const WeadingDetails = () => {
                                         <span className="date"><i className="icon icon-date"></i>July 21, 2023</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>It's our engagement time,He gave you to me,to show his eternal LOVE on me...</p>
+                                        <p>Before creation of this world, God's foreknowledge knows about everything...in his divine eternal knowledge, he choosed to make charan and jyothi as one flesh in marriage...So,we both are engaged eternally before creation of this worldon the mind of GOD</p>
                                     </div>
                                 </div>
                             </li>
@@ -51,7 +51,7 @@ const WeadingDetails = () => {
                                         <span className="date">July 21, 2023</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>As lord jesus, sacrificed his life to save his church, in the same way charan promised to fight with the entire world to protect his wife Jyothi</p>
+                                        <p>As lord jesus, sacrificed his life to save his church, in the same way Charan promised to fight with the entire world to protect his wife Jyothi</p>
                                     </div>
                                 </div>
                             </li>
