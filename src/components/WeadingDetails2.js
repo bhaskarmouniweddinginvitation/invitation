@@ -36,7 +36,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h3 className="timeline-title">Engagement</h3>
-                                        <span className="date"><i className="icon icon-date"></i>July 21, 2023</span>
+                                        <span className="date"><i className="icon icon-date"></i>March 23, 2024</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>Before creation of this world, God's foreknowledge knows about everything...in his divine eternal knowledge, he choosed to make charan and jyothi as one flesh in marriage...So,we both are engaged eternally before creation of this worldon the mind of GOD</p>
