@@ -23,7 +23,7 @@ const Invitation = () => {
                                 </div>
                                 <div className="desc-groom">
                                     <h3>Bhaskar Badisa</h3>
-                                    <h5>S/O SriRangarao Badisa</h5>
+                                    <h5>S/O SriRangarao Badisa </h5>
                                     <h5>Savitri Badisa </h5>
                                 </div>
                             </div>

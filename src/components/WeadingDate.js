@@ -14,7 +14,6 @@ const WeadingDate = () => {
                         <h5 className="date">20th April 2024</h5>
                         <h3 className="pre-title">Save The Date</h3>
                         <h1 className="title">Bhaskar   <img className="sindur-dan" src={hand} alt="Sindur Dan"/> Mounika</h1>
-
                     </div>
 			</div>
 		</div>

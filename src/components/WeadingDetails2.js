@@ -16,6 +16,7 @@ const WeadingDetails = () => {
                             <p>Ah, life grows lovely where you are.</p>
                             <span className="heading-bottom"><i className="icon icon-star"></i></span>
                         </div>
+                        
                     </div>
                     <div className="col-md-12 col-md-offset-0">
                         <ul className="timeline animate-box fadeInUp animated-fast">

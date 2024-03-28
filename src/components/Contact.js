@@ -1,6 +1,5 @@
 import React from 'react';
 import wp from '../images/w.png'
-
 const Contact = () => {
     return ( 
 <footer>

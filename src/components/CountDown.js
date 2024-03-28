@@ -6,6 +6,7 @@ const CountDown = () => {
     const [hours, setHours] = useState(0);
     const [minutes, setMinutes] = useState(0);
     const [seconds, setSeconds] = useState(0);
+    
     useEffect(() => {
         const countDownDate = new Date("April 20, 2024 20:29:00").getTime();
         const x = setInterval(() => {
