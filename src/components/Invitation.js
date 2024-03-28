@@ -1,5 +1,5 @@
 import React from 'react';
-import groom from '../images/manoj1.png';
+import groom from '../images/manoj1.jpg';
 import bride from '../images/mana2.jpg';
 import brideback from '../images/brideback.jpg';
 const Invitation = () => {
@@ -22,9 +22,9 @@ const Invitation = () => {
     backgroundRepeat: "no-repeat"}}  alt="groom" className="img-responsive" />
                                 </div>
                                 <div className="desc-groom">
-                                    <h3>Charan teja Boddani</h3>
-                                    <h5>S/O Srinivas Boddani</h5>
-                                    <h5>Jayasri Boddani </h5>
+                                    <h3>Bhaskar Badisa</h3>
+                                    <h5>S/O SriRangarao Badisa </h5>
+                                    <h5>Savitri Badisa </h5>
                                 </div>
                             </div>
                             <p className="center-text heartp">
@@ -37,9 +37,9 @@ const Invitation = () => {
                                     <img src={bride} alt="bride" className="img-responsive" />
                                 </div>
                                 <div className="desc-bride">
-                                    <h3>Karuna Jyothi Chittimenu</h3>
-                                    <h5>D/O Nageswara Rao Chittimenu</h5>
-                                    <h5>Nagalakshmi Chittimenu</h5>
+                                    <h3>Mounika Vannapurapu</h3>
+                                    <h5>D/O Srinivasarao Vannapurapu</h5>
+                                    <h5>Nagamani Vannapurapu</h5>
                                 </div>
                             </div>
                         </div>

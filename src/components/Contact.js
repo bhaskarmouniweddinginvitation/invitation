@@ -8,7 +8,7 @@ const Contact = () => {
 			<ul className="social-icons">
 				{/* <li><a href="https://www.facebook.com/2Manoj1" target="_blank" rel="noopener noreferrer"><i className="icon icon-facebook"></i></a></li>
 				<li><a href="https://www.twitter.com/ManojMukherje19" target="_blank" rel="noopener noreferrer"><i className="icon icon-twitter"></i></a></li> */}
-				<li><a href="https://wa.me/9052335555" target="_blank" rel="noopener noreferrer"><img alt="WP" src={wp} /></a></li>
+				<li><a href="https://wa.me/9948858458" target="_blank" rel="noopener noreferrer"><img alt="WP" src={wp} /></a></li>
 			</ul>
 		</div>
 	</footer>
