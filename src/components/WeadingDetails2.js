@@ -25,7 +25,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h3 className="timeline-title">First We Met</h3>
-                                        <span className="date">May 22, 2023</span>
+                                        <span className="date">March 14, 2024</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>when i first met you, I thought that all the God's Promises in my life combined together and came in the form of a person He gave you to me,to show his eternal LOVE on me...</p>
@@ -40,11 +40,11 @@ const WeadingDetails = () => {
                                         <span className="date"><i className="icon icon-date"></i>March 23, 2024</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>Before creation of this world, God's foreknowledge knows about everything...in his divine eternal knowledge, he choosed to make charan and jyothi as one flesh in marriage...So,we both are engaged eternally before creation of this worldon the mind of GOD</p>
+                                        <p>Before creation of this world, God's foreknowledge knows about everything...in his divine eternal knowledge, he choosed to make bhaskar and mouni as one flesh in marriage...So,we both are engaged eternally before creation of this worldon the mind of GOD</p>
                                     </div>
                                 </div>
                             </li>
-                            <li className="animate-box fadeInUp animated-fast">
+                            {/* <li className="animate-box fadeInUp animated-fast">
                                 <div className="timeline-badge" style={{backgroundImage: `url(${img3})`}}></div>
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
@@ -55,7 +55,7 @@ const WeadingDetails = () => {
                                         <p>As lord jesus, sacrificed his life to save his church, in the same way Charan promised to fight with the entire world to protect his wife Jyothi</p>
                                     </div>
                                 </div>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                 </div>
