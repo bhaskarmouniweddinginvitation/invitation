@@ -40,7 +40,7 @@ const WeadingDetails = () => {
                                         <span className="date"><i className="icon icon-date"></i>April 20, 2024</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>A new chapter of life is about to begin! 🎉🎊Join us on 20-April-2024...😍as we, Bhaskar 🤵🏻 and Mounika 👰🏻‍♀️ become one ❣️we are wholeheartedly want to invite you and your entire family to attend our wedding ceremony your presence will make our celebration more special ❣️</p>
+                                        <p>A new chapter of life is about to begin! 🎉🎊Join us on 20-April-2024...😍as we, Bhaskar 🤵🏻 and Mounika 👰🏻‍♀️ become one ❣️we wholeheartedly want to invite you and your entire family to attend our wedding ceremony, your presence will make our celebration more special ❣️</p>
                                     </div>
                                 </div>
                             </li>
