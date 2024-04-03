@@ -28,7 +28,7 @@ const WeadingDetails = () => {
                                         <span className="date">March 14, 2024</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>when i first met you, I thought that all the God's Promises in my life combined together and came in the form of a person He gave you to me,to show his eternal LOVE on me...</p>
+                                        <p>In that moment, time stood still. Our eyes locked and my heart skipped a beat💞 and I felt a spark that would ignite a lifetime of love and I strongly believe our future to be more love and caring</p>
                                     </div>
                                 </div>
                             </li>
@@ -36,11 +36,11 @@ const WeadingDetails = () => {
                                 <div className="timeline-badge" style={{backgroundImage: `url(${img2})`}}></div>
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
-                                        <h3 className="timeline-title">Engagement</h3>
-                                        <span className="date"><i className="icon icon-date"></i>March 23, 2024</span>
+                                        <h3 className="timeline-title">Our Words</h3>
+                                        <span className="date"><i className="icon icon-date"></i>April 20, 2024</span>
                                     </div>
                                     <div className="timeline-body">
-                                        <p>Before creation of this world, God's foreknowledge knows about everything...in his divine eternal knowledge, he choosed to make bhaskar and mouni as one flesh in marriage...So,we both are engaged eternally before creation of this worldon the mind of GOD</p>
+                                        <p>A new chapter of life is about to begin! 🎉🎊Join us on 20-April-2024...😍as we, Bhaskar 👰🏻‍♀️and Mounika 🤵🏻become one ❣️we are wholeheartedly want to invite you and your entire family to attend our wedding ceremony your presence will make our celebration more special ❣️</p>
                                     </div>
                                 </div>
                             </li>
